@@ -1,9 +1,9 @@
 sceneSetups:
 - path: "Assets/\u5834\u666F/2_\u6280\u80FD.unity"
   isLoaded: 1
-  isActive: 0
+  isActive: 1
   isSubScene: 0
 - path: Assets/JJ_Three kingdoms - Macho v1.3/macho.unity
-  isLoaded: 1
-  isActive: 1
+  isLoaded: 0
+  isActive: 0
   isSubScene: 0
